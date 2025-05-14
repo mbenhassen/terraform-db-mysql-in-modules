@@ -1,0 +1,7 @@
+AWS_ACCESS_KEY = "AWS_ACCESS_KEY"
+AWS_SECRET_KEY = "AWS_SECRET_KEY"
+AWS_REGION = "us-east-1"
+db_username = "user"
+db_name = "BDDname"
+name = "dev"
+environment ="dev"
