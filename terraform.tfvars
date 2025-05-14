@@ -1,7 +1,0 @@
-AWS_ACCESS_KEY = "AKIA47CRW7LF2VIEFJR5"
-AWS_SECRET_KEY = "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"
-AWS_REGION = "us-east-1"
-db_username = "user"
-db_name = "BDDname"
-name = "dev"
-environment ="dev"
