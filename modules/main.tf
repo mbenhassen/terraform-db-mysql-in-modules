@@ -29,6 +29,7 @@ resource "aws_db_instance" "mysql" {
   engine                  = "mysql"
   engine_version          = "8.0"
   instance_class          = var.instance_type
+  storage_encrypted       = true
   username                = var.db_username
   password                = random_password.db_password.result
   db_name                 = var.db_name
